@@ -142,8 +142,6 @@ html, body {
     font-weight: lighter;
     padding-left: 2em;
     padding-right: 2em;
-    position: relative;
-    left: px;
 }
 
 .btn-header:hover {
