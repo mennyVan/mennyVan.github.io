@@ -80,6 +80,7 @@ html, body {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 1.5em;
+    position: relative;
 }
 .section-header {
     font-family: "Metal Mania";
@@ -129,8 +130,10 @@ html, body {
     cursor: pointer;
 }
 
-.btn-header {
+.btn-header { 
     margin: .5em 15% 2em 15%;
+    position: relative;
+    left: 150px;
     color: white;
     border: 2px solid #2D9CDB;
     background-color: rgba(255, 255, 255, .1);
@@ -139,6 +142,8 @@ html, body {
     font-weight: lighter;
     padding-left: 2em;
     padding-right: 2em;
+    position: relative;
+    left: px;
 }
 
 .btn-header:hover {
@@ -155,6 +160,8 @@ html, body {
     height: 100px;
     padding: 0;
     text-align: center;
+    position: relative;
+    left: 0px;
 }
 
 .btn-primary {
